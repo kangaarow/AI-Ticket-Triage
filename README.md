@@ -75,7 +75,7 @@ caregene-ticket-triage/
 ### 1. Clone the repository
 
 ```bash
-git clone <your-github-repository-url>
+git clone <github-repository-url>
 cd caregene-ticket-triage
 ```
 
@@ -89,12 +89,6 @@ Activate it on Windows:
 
 ```powershell
 .venv\Scripts\Activate.ps1
-```
-
-Or on macOS/Linux:
-
-```bash
-source .venv/bin/activate
 ```
 
 ### 3. Install dependencies
