@@ -1,0 +1,162 @@
+[
+  {
+    "ticket_id": 1,
+    "message": "The app crashed during the update and now all of my mother's medication reminders are gone. She missed her evening insulin dose because of this. Fix this immediately.",
+    "urgency": "Critical",
+    "category": "Technical",
+    "sentiment": "Angry",
+    "suggested_reply": "I understand that missing your mother's evening insulin dose due to the app crashing and disappearing medication reminders is extremely serious."
+  },
+  {
+    "ticket_id": 2,
+    "message": "I have been charged twice for my Premium subscription this month. I want the duplicate charge refunded right away.",
+    "urgency": "High",
+    "category": "Billing",
+    "sentiment": "Angry",
+    "suggested_reply": "I understand you have been charged twice for your Premium subscription this month and are requesting a refund for the duplicate charge."
+  },
+  {
+    "ticket_id": 3,
+    "message": "How do I add a second caregiver to my father's profile? I want my sister to also get his alerts.",
+    "urgency": "Medium",
+    "category": "Account",
+    "sentiment": "Neutral",
+    "suggested_reply": "To add your sister as a second caregiver to your father's profile so she can receive his alerts, please let us know if you need assistance locating the profile settings."
+  },
+  {
+    "ticket_id": 4,
+    "message": "Just wanted to say the new medication tracking feature is fantastic. It has made caring for my grandmother so much easier. Thank you!",
+    "urgency": "Low",
+    "category": "Feedback",
+    "sentiment": "Happy",
+    "suggested_reply": "Thank you for sharing your positive feedback about the medication tracking feature and how it has helped you care for your grandmother."
+  },
+  {
+    "ticket_id": 5,
+    "message": "Emergency fall alerts are NOT reaching my phone. My dad fell yesterday and I received no notification at all. This is unacceptable for a health app.",
+    "urgency": "Critical",
+    "category": "Technical",
+    "sentiment": "Angry",
+    "suggested_reply": "I am so sorry to hear about your dad's fall yesterday and that you did not receive the emergency fall alert notification on your phone. We understand how crucial this feature is for your safety and caregiving needs."
+  },
+  {
+    "ticket_id": 6,
+    "message": "I cannot log in. It keeps saying \"invalid credentials\" even after I reset my password twice. Please help.",
+    "urgency": "High",
+    "category": "Account",
+    "sentiment": "Frustrated",
+    "suggested_reply": "I understand you are having trouble logging in and receiving an invalid credentials error even after resetting your password twice. We will look into this issue for you."
+  },
+  {
+    "ticket_id": 7,
+    "message": "Can I switch from monthly to annual billing? Is there a discount if I pay yearly?",
+    "urgency": "Low",
+    "category": "Billing",
+    "sentiment": "Neutral",
+    "suggested_reply": "You are asking about switching from monthly to annual billing and whether an annual discount is available."
+  },
+  {
+    "ticket_id": 8,
+    "message": "How do I change the app language to Nepali? My mother is not comfortable reading English.",
+    "urgency": "Low",
+    "category": "Technical",
+    "sentiment": "Neutral",
+    "suggested_reply": "Thank you for reaching out regarding changing the app language to Nepali for your mother."
+  },
+  {
+    "ticket_id": 9,
+    "message": "The pill scanner stopped recognising my father's medications after the latest update. It worked fine last week.",
+    "urgency": "High",
+    "category": "Technical",
+    "sentiment": "Frustrated",
+    "suggested_reply": "I understand the pill scanner stopped recognizing your father's medications after the latest update."
+  },
+  {
+    "ticket_id": 10,
+    "message": "It would be great if the app could sync with my Apple Watch so I get reminders on my wrist.",
+    "urgency": "Low",
+    "category": "Feedback",
+    "sentiment": "Neutral",
+    "suggested_reply": "Thank you for sharing your suggestion about syncing the app with your Apple Watch for wrist reminders."
+  },
+  {
+    "ticket_id": 11,
+    "message": "Someone has accessed my account and changed my mother's health records without permission. I need this account locked down immediately.",
+    "urgency": "Critical",
+    "category": "Account",
+    "sentiment": "Frustrated",
+    "suggested_reply": "I understand you need your account locked down immediately due to unauthorized access to your mother's health records."
+  },
+  {
+    "ticket_id": 12,
+    "message": "The support agent who helped me last week was excellent and very patient. Really appreciate the great service.",
+    "urgency": "Low",
+    "category": "Feedback",
+    "sentiment": "Happy",
+    "suggested_reply": "Thank you for sharing your positive feedback about the support agent who helped you last week; we truly appreciate you letting us know."
+  },
+  {
+    "ticket_id": 13,
+    "message": "The dashboard is very slow to load. It takes almost 30 seconds every single time I open the app.",
+    "urgency": "High",
+    "category": "Technical",
+    "sentiment": "Frustrated",
+    "suggested_reply": "I understand that having the dashboard take almost 30 seconds to load every time you open the app is affecting your experience."
+  },
+  {
+    "ticket_id": 14,
+    "message": "I cancelled my subscription last month but you are STILL charging my card. This feels like fraud and I want it stopped now.",
+    "urgency": "High",
+    "category": "Billing",
+    "sentiment": "Angry",
+    "suggested_reply": "I understand your frustration regarding the continued charges on your card after cancelling your subscription last month. We will need to look into your account details to address this immediately."
+  },
+  {
+    "ticket_id": 15,
+    "message": "Where can I download my father's health report as a PDF to share with his doctor?",
+    "urgency": "Low",
+    "category": "Technical",
+    "sentiment": "Neutral",
+    "suggested_reply": "Thank you for reaching out with your question about downloading your father's health report as a PDF to share with his doctor."
+  },
+  {
+    "ticket_id": 16,
+    "message": "The reminder notifications arrive about 10 minutes late every time. Can this timing be fixed?",
+    "urgency": "Medium",
+    "category": "Technical",
+    "sentiment": "Neutral",
+    "suggested_reply": "Thank you for letting us know about the delay with your reminder notifications."
+  },
+  {
+    "ticket_id": 17,
+    "message": "The video call with the doctor kept dropping and we could not finish the consultation. Very frustrating.",
+    "urgency": "High",
+    "category": "Technical",
+    "sentiment": "Frustrated",
+    "suggested_reply": "I understand how frustrating it is when the video call with the doctor keeps dropping and prevents you from finishing your consultation."
+  },
+  {
+    "ticket_id": 18,
+    "message": "I love the new interface redesign. It is much easier for my grandmother to navigate on her own now.",
+    "urgency": "Low",
+    "category": "Feedback",
+    "sentiment": "Happy",
+    "suggested_reply": "Thank you for sharing your positive feedback about the new interface redesign and how it helps your grandmother navigate more easily."
+  },
+  {
+    "ticket_id": 19,
+    "message": "Do you offer a family plan that covers multiple patients under one account?",
+    "urgency": "Low",
+    "category": "Feedback",
+    "sentiment": "Neutral",
+    "suggested_reply": "Thank you for your inquiry about a family plan covering multiple patients. We appreciate your interest in our app."
+  },
+  {
+    "ticket_id": 20,
+    "message": "All of my mother's health data has disappeared from the app. Months of blood pressure and glucose logs, gone. Please help urgently, we need that history for her appointment tomorrow.",
+    "urgency": "Critical",
+    "category": "Technical",
+    "sentiment": "Frustrated",
+    "suggested_reply": "I understand how crucial it is to have your mother's health data for her appointment tomorrow, and I am sorry to hear that the blood pressure and glucose logs have disappeared from the app."
+  }
+]
