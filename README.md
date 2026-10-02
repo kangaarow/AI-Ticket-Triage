@@ -75,7 +75,7 @@ caregene-ticket-triage/
 ### 1. Clone the repository
 
 ```bash
-git clone <your-github-repository-url>
+git clone <github-repository-url>
 cd caregene-ticket-triage
 ```
 
@@ -85,16 +85,8 @@ cd caregene-ticket-triage
 python -m venv .venv
 ```
 
-Activate it on Windows:
-
 ```powershell
 .venv\Scripts\Activate.ps1
-```
-
-Or on macOS/Linux:
-
-```bash
-source .venv/bin/activate
 ```
 
 ### 3. Install dependencies
@@ -108,18 +100,14 @@ pip install -r requirements.txt
 Create a `.env` file in the project root:
 
 ```env
-GEMINI_API_KEY=your_api_key_here
+GEMINI_API_KEY= api_key
 ```
-
-The `.env` file should not be committed to GitHub.
 
 ### 5. Run the application
 
 ```bash
 streamlit run app.py
 ```
-
-The Streamlit application will then be available at the local URL shown in the terminal.
 
 ## AI Pipeline
 
